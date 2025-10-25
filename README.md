@@ -44,3 +44,5 @@ I help Web3 brands and protocols grow by combining market research, strategic ca
 ---
 
 💡 *This repository is a living document — as my Web3 marketing journey grows, so will the portfolio and insights shared here.*
+
+Updated this file as part of my GitHub project progress.
